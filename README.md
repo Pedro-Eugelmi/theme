@@ -4,7 +4,7 @@ A modular, performance-focused WordPress starter theme designed for speed and sc
 ## 🚀 Key Features
 Modular Architecture: Logic is organized within the /includes directory to keep functions.php lightweight.
 
-Asset Minification: Optimized scripts/ and styles/ are minified into a production-ready /minified directory. Now includes tailwind.min.css as part of the styles.
+Asset Minification: Optimized scripts/ and styles/ are minified into a production-ready /minified directory.
 
 WooCommerce Ready: Includes shop.php for handling e-commerce integrations.
 

@@ -1,0 +1,27 @@
+// variables
+
+:root {
+    --white: #FFF;
+    --black: #000;
+    --radius: 10px;
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+*, 
+*::before, 
+*::after, 
+input, 
+button, 
+textarea, 
+select {
+    font-family: "Roboto", sans-serif !important;
+}
+
+input {
+    text-align: left;
+    box-sizing: border-box;
+}
